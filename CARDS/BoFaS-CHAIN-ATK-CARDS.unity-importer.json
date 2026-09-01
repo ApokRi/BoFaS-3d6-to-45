@@ -1,0 +1,906 @@
+{
+  "generator": "ToolBuddy Texture Packer",
+  "format": "unity-spritesheet",
+  "textureImporter": {
+    "textureType": "Sprite (2D and UI)",
+    "spriteMode": "Multiple",
+    "alphaIsTransparency": true
+  },
+  "sheets": [
+    {
+      "image": "BoFaS-CHAIN-ATK-CARDS-1.png",
+      "size": {
+        "width": 1816,
+        "height": 1902
+      },
+      "sprites": [
+        {
+          "name": "Basilisk",
+          "rect": {
+            "x": 2,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Beauty-1",
+          "rect": {
+            "x": 456,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Beauty-2",
+          "rect": {
+            "x": 910,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Beauty-3",
+          "rect": {
+            "x": 1364,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Beauty-4",
+          "rect": {
+            "x": 2,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Beauty-5",
+          "rect": {
+            "x": 456,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Fire-1",
+          "rect": {
+            "x": 910,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Fire-2",
+          "rect": {
+            "x": 1364,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Fire-3",
+          "rect": {
+            "x": 2,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Fire-4",
+          "rect": {
+            "x": 456,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Fire-5",
+          "rect": {
+            "x": 910,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Shadow-1",
+          "rect": {
+            "x": 1364,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        }
+      ]
+    },
+    {
+      "image": "BoFaS-CHAIN-ATK-CARDS-2.png",
+      "size": {
+        "width": 1816,
+        "height": 1902
+      },
+      "sprites": [
+        {
+          "name": "cc-Shadow-2",
+          "rect": {
+            "x": 2,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Shadow-3",
+          "rect": {
+            "x": 456,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Shadow-4",
+          "rect": {
+            "x": 910,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "cc-Shadow-5",
+          "rect": {
+            "x": 1364,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Ghost1",
+          "rect": {
+            "x": 2,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Ghost2",
+          "rect": {
+            "x": 456,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Goblin1",
+          "rect": {
+            "x": 910,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Goblin2",
+          "rect": {
+            "x": 1364,
+            "y": 636,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Goblin3",
+          "rect": {
+            "x": 2,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Golem",
+          "rect": {
+            "x": 456,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Hydra",
+          "rect": {
+            "x": 910,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Mimic",
+          "rect": {
+            "x": 1364,
+            "y": 1270,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        }
+      ]
+    },
+    {
+      "image": "BoFaS-CHAIN-ATK-CARDS-3.png",
+      "size": {
+        "width": 1816,
+        "height": 634
+      },
+      "sprites": [
+        {
+          "name": "Phoenix",
+          "rect": {
+            "x": 2,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Skeleton1",
+          "rect": {
+            "x": 456,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Skeleton2",
+          "rect": {
+            "x": 910,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        },
+        {
+          "name": "Skeleton3",
+          "rect": {
+            "x": 1364,
+            "y": 2,
+            "width": 450,
+            "height": 630
+          },
+          "alignment": "Center",
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0
+          },
+          "rotated": false,
+          "originalSize": {
+            "width": 450,
+            "height": 630
+          },
+          "trimmedRect": {
+            "x": 0,
+            "y": 0,
+            "width": 450,
+            "height": 630
+          }
+        }
+      ]
+    }
+  ]
+}
